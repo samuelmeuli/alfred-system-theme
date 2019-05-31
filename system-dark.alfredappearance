@@ -1,0 +1,61 @@
+{
+	"alfredtheme": {
+		"result": {
+			"textSpacing": 6,
+			"subtext": {
+				"size": 10,
+				"colorSelected": "#85ACE8C4",
+				"font": "System",
+				"color": "#9E9D9EFF"
+			},
+			"shortcut": {
+				"size": 10,
+				"colorSelected": "#FFFFFFFF",
+				"font": "System",
+				"color": "#0B83FFFF"
+			},
+			"backgroundSelected": "#0058D0FF",
+			"text": {
+				"size": 15,
+				"colorSelected": "#FFFFFFFF",
+				"font": "System",
+				"color": "#DEDEDEFF"
+			},
+			"iconPaddingHorizontal": 10,
+			"paddingVertical": 8,
+			"iconSize": 30
+		},
+		"search": {
+			"paddingVertical": 8,
+			"background": "#00000000",
+			"spacing": 3,
+			"text": {
+				"size": 24,
+				"colorSelected": "#DEDEDEFF",
+				"font": "System",
+				"color": "#DEDEDEFF"
+			},
+			"backgroundSelected": "#3B5777FF"
+		},
+		"window": {
+			"color": "#272627FF",
+			"paddingHorizontal": 3,
+			"width": 550,
+			"borderPadding": 0,
+			"borderColor": "#00000000",
+			"blur": 15,
+			"roundness": 4,
+			"paddingVertical": 3
+		},
+		"credit": "Samuel Meuli",
+		"separator": {
+			"color": "#3C3B3CFF",
+			"thickness": 1
+		},
+		"scrollbar": {
+			"color": "#9E9D9E7F",
+			"thickness": 3
+		},
+		"name": "System Dark"
+	}
+}
